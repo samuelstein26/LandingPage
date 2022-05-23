@@ -43,7 +43,7 @@
   .wrapper .icon:hover .tooltip {
     opacity:1;
     pointer-events: auto;
-    top:-55px;
+    top:-45px;
   }
   .wrapper .icon .tooltip:before {
     position:absolute;

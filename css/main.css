@@ -87,8 +87,8 @@ div h3 {
     height: auto;
 }
 
-#contact {
-    height: 100px;
+#contact, #footer-logo {
+    padding-top: 50px;
 }
 
 #footer-logo {
@@ -98,11 +98,6 @@ div h3 {
     text-decoration: none;
     line-height: 25px;
     border-radius: 4px;
-    padding: 40px;
-}
-
-#footer-row-1 {
-    height: 100px;
 }
 
 .star > i {
@@ -155,6 +150,10 @@ label.error {
     .carousel-caption h3 {
         font-size: 25px;
         background-color: rgba(168, 167, 167, 0.72);
+    }
+
+    #footer-logo {
+        font-size: 30px;
     }
 }
 
