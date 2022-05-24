@@ -19,8 +19,8 @@
     
 @keyframes shine {
   0% {background-position: 0px;}
-  25% {background-position: 90px;}
-  50% {background-position: 180px;}
-  75% {background-position: 270px;}
-  100% {background-position: 359px;}
+  25% {background-position: 110px;}
+  50% {background-position: 210px;}
+  75% {background-position: 310px;}
+  100% {background-position: 460px;}
 }    
