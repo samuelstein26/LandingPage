@@ -1,9 +1,7 @@
-// Disappear confirm form resubmission window
 if ( window.history.replaceState ) {
     window.history.replaceState( null, null, window.location.href );
 }
 
-// Validator
 $(document).ready(function() {
     $("#newletter-form").validate({
         rules: {
