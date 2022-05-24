@@ -115,6 +115,10 @@ label.error {
     margin-top: 5px;
 }
 
+.fadein {
+    opacity:0;
+}
+
 @media (max-width: 1200px){
     .worker-img {
         height: 120px;
